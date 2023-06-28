@@ -5,6 +5,8 @@
 
 ### ***JSTR for MC 1.7.x*** ###
 
+This repo is a fork of [this repo](https://github.com/scottrowley/JSTR-GTNH-custom) that I'm using to fix bugs I've noticed, to remove the default JSTR text, and to use it in my own custom 1.7.10 modpack as well as GTNH.
+
 This repository is for modded texture version control. Some specific changes have been made to compensate for the GTNH modpack.  
 Minor other changes have been made to suit the taste of Alkalus.
 
