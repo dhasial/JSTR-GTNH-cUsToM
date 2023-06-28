@@ -1,0 +1,5 @@
+#!/bin/zsh
+# Just a simple build command ( which excludes itself from the build, obviously :P )
+filename='JSTR-GTNH-cUsToM.zip'
+
+rm $filename; `which zip` -r $PWD/$filename * -x '*.git*' 'build.sh' 'JSTR-GTNH-cUsToM.zip'
